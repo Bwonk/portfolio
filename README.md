@@ -2,7 +2,7 @@
 
 A sleek, responsive, and modern portfolio website built with cutting-edge web technologies. This portfolio showcases professional projects, skills, and provides an elegant way to connect with potential clients and collaborators.
 
-## 📹 Portfolio Preview
+## Portfolio Preview
 
 ![Portfolio Demo](assets/img/Portfolio%20-%20Video.mp4)
 
