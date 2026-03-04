@@ -65,8 +65,6 @@ Portfolio-Website/
         └── script.js    
 ```
 
-## Customization
-
 ### Color Scheme
 The website uses CSS custom properties for easy theming:
 
