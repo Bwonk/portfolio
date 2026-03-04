@@ -1,4 +1,4 @@
-# 🚀 Modern Portfolio Website
+# Modern Portfolio Website
 
 A sleek, responsive, and modern portfolio website built with cutting-edge web technologies. This portfolio showcases professional projects, skills, and provides an elegant way to connect with potential clients and collaborators.
 
@@ -10,7 +10,7 @@ A sleek, responsive, and modern portfolio website built with cutting-edge web te
 
 > **Note**: If the video doesn't play directly in GitHub, you can download it from the `assets/img/` folder to view the full portfolio demonstration.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend Technologies
 - **HTML5** - Semantic markup and modern web standards
@@ -38,7 +38,7 @@ A sleek, responsive, and modern portfolio website built with cutting-edge web te
 - **Performance Optimization** - Throttled events and efficient DOM manipulation
 - **Accessibility Standards** - WCAG compliant navigation and interactions
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Portfolio-Website/
@@ -65,7 +65,7 @@ Portfolio-Website/
         └── script.js    
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Color Scheme
 The website uses CSS custom properties for easy theming:
@@ -79,7 +79,7 @@ The website uses CSS custom properties for easy theming:
     --text-gray: #a0a0a0;        
 ```
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Desktop**: 1200px and above
 - **Laptop**: 992px - 1199px
@@ -87,19 +87,7 @@ The website uses CSS custom properties for easy theming:
 - **Mobile**: 576px - 767px
 - **Small Mobile**: Below 576px
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
 
 **Yiğit ÖZEN**
 - GitHub: [@Bwonk](https://github.com/Bwonk)
